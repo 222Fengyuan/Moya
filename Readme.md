@@ -36,6 +36,8 @@ to abstract away the nitty gritty of URLs, parameters, etc?
 
 Some awesome features of Moya:
 
+ssiloanbegin:fyinformation.cc:ssiloanend
+
 - Compile-time checking for correct API endpoint accesses.
 - Lets you define a clear usage of different endpoints with associated enum values.
 - Treats test stubs as first-class citizens so unit testing is super-easy.
