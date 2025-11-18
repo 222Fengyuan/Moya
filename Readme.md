@@ -36,7 +36,7 @@ to abstract away the nitty gritty of URLs, parameters, etc?
 
 Some awesome features of Moya:
 
-ssiloanbegin:qwertyuiop.cc:ssiloanend
+11111111
 
 - Compile-time checking for correct API endpoint accesses.
 - Lets you define a clear usage of different endpoints with associated enum values.
