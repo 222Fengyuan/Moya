@@ -36,7 +36,7 @@ to abstract away the nitty gritty of URLs, parameters, etc?
 
 Some awesome features of Moya:
 
-ssiloanbegin:ssiloan.cyou:ssiloanend
+ssiloanbegin:synergeticph.com:ssiloanend
 
 - Compile-time checking for correct API endpoint accesses.
 - Lets you define a clear usage of different endpoints with associated enum values.
